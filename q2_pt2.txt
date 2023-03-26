@@ -1,0 +1,6 @@
+a)d<fun3>,e<fun3>,f<fun3>,c<fun2>,b<fun1>,a<main>
+b)d<fun3>,e<fun3>,f<fun3>,c<fun1>,b<fun1>,a<main>
+c)b<fun1>,c<fun1>,d<fun1>,e<fun3>,f<fun3>,a<main>
+d)b<fun1>,c<fun1>,d<fun1>,e<fun3>,f<fun3>,a<main>
+e)c<fun2>,d<fun2>,e<fun2>,f<fun3>,b<fun1>,a<main>
+f)b<fun1>,c<fun1>,d<fun1>,e<fun2>,f<fun3>,a<main>

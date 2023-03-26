@@ -1,0 +1,1 @@
+Nas três linguagens: C, C++ e java, ocorreram erro de declaração de variável "erro variável não declarada".
